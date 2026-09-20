@@ -1,6 +1,6 @@
 Hi there, I’m Ali 👋
 
-I’m a 3rd-year CS student at ESI Algiers
+I’m a 4th-year CS student at ESI Algiers
  and a Full-Stack Mobile Developer — also a cybersecurity & web-pentesting enthusiast and CTF Player.
 
 👨‍💻 About Me
